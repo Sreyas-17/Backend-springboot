@@ -1,0 +1,6 @@
+<component name="ArtifactManager">
+  <artifact name="Spring-webapp">
+    <output-path>$PROJECT_DIR$/out/artifacts/Spring_webapp</output-path>
+    <root id="root" />
+  </artifact>
+</component>
